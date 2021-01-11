@@ -24,3 +24,5 @@ Encoded Maze Array = [[3, 10, 10, 14, 7, 11, 10, 10, 10, 6], [5, 3, 6, 11, 0, 6,
 
 #Output Image <br>
 ![](Result/1.png) <br>
+
+#Credit for Maze Images  goes to E-yantra Lab. This is project is subtask of E-yrc 2020-2021 competition.
